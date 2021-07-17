@@ -1,4 +1,4 @@
-# sistema-distribuido-arquivos
+# Sistema Distribuido Com Servidores de Arquivos
 
  UNIVERSIDADE FEDERAL DE SERGIPE
                                   SISTEMA DE INFORMAÇÃO - ITABAIANA - 2021.2
